@@ -23,6 +23,7 @@ EC2はOSやDB、ストレージを選択しそれらを組み合わせて自由�
 * AWS Lightsail (LAMP)
 
 ## 機能詳細
+* レスポンシブWebデザイン
 * スレタイ検索
 * カテゴリ検索
 * 並び替え（人気順・新着順・コメントの多い順・古い順） 
@@ -34,3 +35,6 @@ EC2はOSやDB、ストレージを選択しそれらを組み合わせて自由�
 	円グラフでその割合を確認できます。  
 	Ajax通信で非同期でDBの値と画面を更新します。 
 ![good_button](https://raw.githubusercontent.com/shizuka-iot/imgs/main/engi2ch_sample02.gif)
+
+* google recaptcha導入
+* googleアナリティクス導入
